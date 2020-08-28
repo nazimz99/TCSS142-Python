@@ -1,0 +1,6 @@
+print("'Would you tell me, please, which way I ought to go from here?'")
+print("'That depends a good deal on where you want to get to,' said the Cat.")
+print("'I don't much care where--' said Alice.")
+print("'Then it doesn't matter which way you go,' said the Cat.")
+print("'--so long as I get somewhere,'Alice added as an explanation.")
+print("'Oh, you're sure to do that,' said the Cat,\'if you only walk long \nenough.'")
